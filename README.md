@@ -43,11 +43,4 @@ Mis_XV/
 ---
 
 
-## 📸 Vista previa
-
-![Vista previa de la invitación](https://images.pexels.com/photos/1043474/pexels-photo-1043474.jpeg?auto=compress&cs=tinysrgb&w=800)
-
----
-
-
 💖 *Hecho con amor para un día especial.*
